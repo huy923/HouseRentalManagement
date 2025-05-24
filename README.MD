@@ -7,7 +7,7 @@
 - Download XAMPP from [here](https://www.apachefriends.org/download.html)
 - Install XAMPP
 - Clone this repository to your `xampp/htdocs` folder
-- `git clone https://github.com/HashJProgramming/BHRMS`
+- `git clone https://github.com/huy923/BHRMS`
 - Open XAMPP Control Panel
 - Start Apache and MySQL
 - Open your browser and go to `localhost/BHRMS`

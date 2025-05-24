@@ -11,7 +11,7 @@ foreach ($results as $row) {
 
 ?>
     <tr>
-        <td><?php echo $row['id']; ?></td>
+        <td><?php echo $row['room']; ?></td>
         <td><?php echo $row['pax']; ?></td>
         <td>₱<?php echo number_format($row['rent'],2); ?></td>
         <td class="text-center">
@@ -22,3 +22,4 @@ foreach ($results as $row) {
 
 <?php
 }
+?> 

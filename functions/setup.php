@@ -28,6 +28,7 @@ try {
                 id INT PRIMARY KEY AUTO_INCREMENT,
                 pax VARCHAR(255),
                 rent DECIMAL(10,2),
+                room INT,
                 created_at DATETIME DEFAULT CURRENT_TIMESTAMP
             )
         ");
