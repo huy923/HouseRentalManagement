@@ -42,7 +42,7 @@ Here you can change the `xampp/htdocs/index.php` to redirect to the `BHRMS` fold
 |----------|----------|
 | admin    | admin    |
 
-## LICENSE
+<!-- ## LICENSE
 ```               
                                                 MIT License
 
@@ -65,4 +65,4 @@ Here you can change the `xampp/htdocs/index.php` to redirect to the `BHRMS` fold
                 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
                 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
                 SOFTWARE.
-```
+``` -->
